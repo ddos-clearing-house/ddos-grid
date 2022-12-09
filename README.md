@@ -1,6 +1,13 @@
 # DDoSGrid
 > A tool for analysis and visualization of DDoS attacks from PCAP files
 
+# Notice:
+This is the baseline version (1.0) of the DDoS Grid software. The latest version, integrating the most recent DDoS-DB version is available here:
+
+https://owncloud.csg.uzh.ch/index.php/s/ykQPaZzQtCLPLs6
+____
+ 
+
 ## Table of Contents
 
    * [DDoSGrid](#ddosgrid)
